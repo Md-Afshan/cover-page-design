@@ -17,7 +17,7 @@ Create a folder named 'static' in the app folder.
 Create a new HTML file in the static folder.
 
 ### Step 5:
-Write the HTMl code with relevant CSS properties.
+Write the HTML code with relevant CSS properties.
 
 ### Step 6:
 Choose the appropriate style and color scheme.
